@@ -5,6 +5,6 @@
 - 👯 I’m open for collaborations in Applied AI / Machine Learning concepts and specifically to Time Series Applications.
 - 🤔 I love teaching at classroom sessions more than online. Also kaggler in free time https://www.kaggle.com/pradeep13 . 
 - 📫 How to reach me: besteconometrician@gmail.com, +91-8050998985, https://www.linkedin.com/in/pradeepmavuluri/
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him, [![PyPI version](https://img.shields.io/pypi/v/check-the-data.svg)](https://pypi.org/
 - ⚡ Fun fact: Would like to spend lot of time as standup comedian at data science classrooms / presentations.
 - 🤔 Focused on leveraging AI to drive quantifiable outcomes and enhance operational efficiency.
